@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'Felipe-Barbosa-Fernandes',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_fe\\greetings': { 'hello_labdata_fe\\greetings.hello': 'https://Felipe-Barbosa-Fernandes.github.io/hello_labdata_fe/hello_labdata_fe\\greetings.html#hello'},
-            'hello_labdata_fe\\jokes': { 'hello_labdata_fe\\jokes.qual_time_nao_tem_mundial': 'https://Felipe-Barbosa-Fernandes.github.io/hello_labdata_fe/hello_labdata_fe\\jokes.html#qual_time_nao_tem_mundial'}}}
+  'syms': { 'hello_labdata_fe.greetings': { 'hello_labdata_fe.greetings.hello': 'https://Felipe-Barbosa-Fernandes.github.io/hello_labdata_fe/greetings.html#hello'},
+            'hello_labdata_fe.jokes': { 'hello_labdata_fe.jokes.qual_time_nao_tem_mundial': 'https://Felipe-Barbosa-Fernandes.github.io/hello_labdata_fe/jokes.html#qual_time_nao_tem_mundial'}}}
